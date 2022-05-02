@@ -3,9 +3,9 @@
 # and commit this file to your remote git repository to share the goodness with others.
 
 tasks:
-  - init: pip install httpie
+  - name: httpie
+    init: pip install httpie
 
-tasks:
   - name: kafka
     init: cd kafka
     command: docker-compose up -d
