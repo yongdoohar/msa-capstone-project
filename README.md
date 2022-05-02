@@ -1,1 +1,1 @@
-# kihoon-yang-msa-capstone-project
+# msa-capstone-project
