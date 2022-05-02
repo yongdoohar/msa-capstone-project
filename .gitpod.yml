@@ -7,30 +7,32 @@ tasks:
     command: pip install httpie
 
   - name: siege
-    command: sudo apt-get install siege
+    command: >
+      sudo apt-get install siege &&
+      stege -V
     
-  - name: kafka
-    command: > 
-      cd kafka &&
-      docker-compose up -d
+#   - name: kafka
+#     command: > 
+#       cd kafka &&
+#       docker-compose up -d
 
-  - name: kubectl
-    command: >
-      curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" &&
-      sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl &&
-      kubectl version --client
+#   - name: kubectl
+#     command: >
+#       curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl" &&
+#       sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl &&
+#       kubectl version --client
 
-  - name: awscli
-    command: >
-      curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip" &&
-      unzip awscli-bundle.zip &&
-      sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+#   - name: awscli
+#     command: >
+#       curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip" &&
+#       unzip awscli-bundle.zip &&
+#       sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
     
-  - name: eksctl
-    command: >
-      curl --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp &&
-      sudo mv /tmp/eksctl /usr/local/bin &&
-      eksctl version
+#   - name: eksctl
+#     command: >
+#       curl --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp &&
+#       sudo mv /tmp/eksctl /usr/local/bin &&
+#       eksctl version
   
-  - name: aws config
-    command: aws configure
+#   - name: aws config
+#     command: aws configure
