@@ -6,6 +6,9 @@ tasks:
   - name: httpie
     command: pip install httpie
 
+  - name: siege
+    command: sudo apt-get install siege
+    
   - name: kafka
     command: > 
       cd kafka &&
