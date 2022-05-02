@@ -4,3 +4,8 @@
 
 tasks:
   - init: pip install httpie
+
+tasks:
+  - name: kafka
+    init: cd kafka
+    command: docker-compose up -d
