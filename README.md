@@ -13,7 +13,7 @@
 
     |일자|진행|내용|
     |:------:|:---|:---|
-    |05/16 AM|OT|과정설명<br>과제수행환경설명|
+    |05/16 AM|OJT|과정설명<br>과제수행환경설명|
     |05/16 PM|Brain Storming|msaez.io|
     |05/17 ALL|Team Project|팀별과제 수행|
     |05/18 AM|Team Project|팀별과제 수행(계속)|
@@ -47,8 +47,30 @@
    ||⁉️정호현|사원|201903684|데이터센터|금융운영팀|
    
 
+## ✏️ Evaluation
+
+  * 분석설계
+  * SAGA Pattern
+  * CQRS Pattern
+  * Correlation / Compensation(Unique Key)
+  * Request / Response (Feign Client / Sync.Async)
+  * Gateway
+  * Deploy / Pipeline
+  * Circuit Breaker
+  * Autoscale(HPA)
+  * Self-Healing(Liveness Probe)
+  * Zero-Downtime Deploy(Readiness Probe)
+  * Config Map / Persistence Volume
+  * Polyglot
+  ```
+  구현방법 및 산출물 양식은 제한 없이 자유롭게 진행
+  ```
 
 ## 📑 To-Do
 
+* <a href="https://www.msaez.io/#/" target="_blank">Brain Storming(MSAEZ)</a>
+* <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
+* ..
+* ..
 
 ## 🧑🏻‍💻 Sample
