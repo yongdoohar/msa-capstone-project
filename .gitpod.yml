@@ -22,15 +22,15 @@ tasks:
       sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl &&
       kubectl version --client
 
-   - name: awscli
-     command: >
-       curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip" &&
-       unzip awscli-bundle.zip &&
-       sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
+  - name: awscli
+    command: >
+      curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip" &&
+      unzip awscli-bundle.zip &&
+      sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
     
-   - name: eksctl
-     command: >
-       curl --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp &&
-       sudo mv /tmp/eksctl /usr/local/bin &&
-       eksctl version
+  - name: eksctl
+    command: >
+      curl --location "https://github.com/weaveworks/eksctl/releases/latest/download/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp &&
+      sudo mv /tmp/eksctl /usr/local/bin &&
+      eksctl version
  
