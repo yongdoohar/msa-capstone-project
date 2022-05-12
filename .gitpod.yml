@@ -42,7 +42,7 @@ tasks:
       
   - name: boot
     init: gp sync-await init-eksctl
-    command: >
+    command: >+
       echo -e \n\n
  ____    ____    ______         _            ______                              _                                  _______                          _                    _    
 |_   \  /   _| .' ____ \       / \         .' ___  |                            / |_                               |_   __ \                        (_)                  / |_  
