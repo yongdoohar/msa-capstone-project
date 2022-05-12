@@ -43,4 +43,4 @@ tasks:
   - name: boot
     init: gp sync-await init-eksctl
     command: >
-      ./config/init.sh
+      cat ./config/init
