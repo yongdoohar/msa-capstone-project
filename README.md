@@ -68,9 +68,20 @@
 
 ## 📑 To-Do
 
-* <a href="https://www.msaez.io/#/" target="_blank">Brain Storming(MSAEZ)</a>
+* <a href="https://www.msaez.io/#/" target="_blank">Brain Storming</a>
+  + 위치
+  + 동시수정
 * <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
-* ..
+  + Github
+  + gitpod.io/#/{Github-Repository-URL}
+* AWS
+  + 메일 발송
+  + Region-Code : `ca-central-1`
+  + Cluster-Name : Account-Id
+  + Image-Repository-Name : Account-Id
 * ..
 
 ## 🧑🏻‍💻 Sample
+
+
+##
