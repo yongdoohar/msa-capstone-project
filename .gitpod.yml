@@ -23,9 +23,14 @@ tasks:
       kubectl version --client &&
       gp sync-done init-kubectl
       
-
-  - name: awscli
+  - name: python
     init: gp sync-await init-kubectl
+    command: >
+      sudo apt install python-is-python3 &&
+      gp sync-done init-python
+      
+  - name: awscli
+    init: gp sync-await init-python
     command: >
       curl "https://s3.amazonaws.com/aws-cli/awscli-bundle.zip" -o "awscli-bundle.zip" &&
       unzip awscli-bundle.zip &&
