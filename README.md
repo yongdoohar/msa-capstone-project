@@ -6,7 +6,11 @@
   - 미래혁신센터 / Cloud Native개발팀
   - 양기훈 과장, 변용수 대리
 * Platform
-  - ZOOM : xxx.xxx.xxxx
+  - ZOOM
+    + URL : https://us06web.zoom.us/j/83816607931?pwd=NFRNUWU2Skh2R1B2bDN5RDB3aDluUT09
+    + 회의 ID : 838 1660 7931
+    + 암호 : 642939
+
   - Kakao : yyy.yyy.yyy
 
 ## 🕙 Schedule
@@ -92,5 +96,10 @@
 ## 🧑🏻‍💻 Sample
 
 
+
 ## 👍 Good Practice
+  * 배달의 민족 Cover : [https://github.com/msa-ez/example-food-delivery]
+  * Air BnB Cover : [https://github.com/msa-ez/airbnb_project]
+  * 숙박예약 Cover : [https://github.com/msa-ez/airbnb_project]
+
 
