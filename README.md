@@ -66,27 +66,31 @@
   * Polyglot
   ```
   구현방법 및 산출물 양식은 제한 없이 자유롭게 진행
+  문항별 담당자명 표시
   ```
+
 
 ## 📑 To-Do
 
 * <a href="https://www.msaez.io/#/" target="_blank">Brain Storming</a>
-  + 2
+  + 팀별로 소회의실에서 진행
   + 동시수정
 * <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
-  + Github
+  + Github 계정 및 Repositoy(public) 준비
   + gitpod.io/#/{Github-Repository-URL}
 * AWS
-  + 메일 발송
+  + 계정정보(IAM)메일 발송
   + Region-Code : `ca-central-1`
   + Cluster-Name : Account-Id
   + Image-Repository-Name : Account-Id
-* 참고
-  + 이전실습환경()
-  + 
-* 
+
+> 참고
+
+  이전실습환경(https://labs.msaez.io/)에 접속해서 실습내용을 확인해 볼 수 있으나, `INTO THE LAB`에서 실습했었던 온라인상의 실행은 불가하므로, `파일다운로드`버튼을 이용해 실습했던 Code를 다운로드 해서 확인하시길 바랍니다.
+
 
 ## 🧑🏻‍💻 Sample
 
 
-##
+## 👍 Good Practice
+
