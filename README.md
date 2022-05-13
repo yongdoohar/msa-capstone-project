@@ -96,7 +96,7 @@
 * <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
   + Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   + gitpod.io/#/{Github-Repository-URL}
-* AWS (*약 15~20분 소요*)
+* <a href="https://794003312682.signin.aws.amazon.com/console">AWS</a> (*약 15~20분 소요*)
   + 계정정보(IAM)메일 발송
   + Region-Code : `ca-central-1`
   + Cluster-Name : Account-Id
