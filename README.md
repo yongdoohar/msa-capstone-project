@@ -107,6 +107,9 @@
   * 배달의 민족 Cover : [https://github.com/msa-ez/example-food-delivery]
   * Air BnB Cover : [https://github.com/msa-ez/airbnb_project]
   * 숙박예약 Cover : [https://github.com/msa-ez/airbnb_project]
+  
+
+## 🪶 Lite Version (for FORK )
   * Dragon Water Lite 🦖💧 : [https://github.com/yongdoohar/msa-capstone-project]
 
 
