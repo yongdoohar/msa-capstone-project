@@ -11,7 +11,8 @@
     + 회의 ID : 838 1660 7931
     + 암호 : 642939
 
-  - Kakao : yyy.yyy.yyy
+  - Kakao
+    + URL :https://open.kakao.com/o/gguDsE5d
 
 ## 🕙 Schedule
 * 일자별 진행
@@ -106,6 +107,6 @@
   * 배달의 민족 Cover : [https://github.com/msa-ez/example-food-delivery]
   * Air BnB Cover : [https://github.com/msa-ez/airbnb_project]
   * 숙박예약 Cover : [https://github.com/msa-ez/airbnb_project]
-  * Dragon Water Lite Version : [https://github.com/yongdoohar/msa-capstone-project]
+  * Dragon Water Lite 🦖💧 : [https://github.com/yongdoohar/msa-capstone-project]
 
 
