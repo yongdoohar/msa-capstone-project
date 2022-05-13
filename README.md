@@ -12,7 +12,7 @@
     + 암호 : 642939
 
   - Kakao
-    + URL :https://open.kakao.com/o/gguDsE5d
+    + URL : https://open.kakao.com/o/gguDsE5d
 
 ## 🕙 Schedule
 * 일자별 진행
