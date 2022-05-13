@@ -1,6 +1,16 @@
 # msa-capstone-project
 <img src= "https://t1.daumcdn.net/cfile/tistory/997A00365C79475E04?download">
 
+
+## 🤷🏻‍♂️🤷🏻‍♀️ Curriculum
+<img width="1614" alt="image" src="https://user-images.githubusercontent.com/90342002/168257940-b01648f5-c547-4ab0-beab-55b2d9b558b7.png">
+<img width="1616" alt="image" src="https://user-images.githubusercontent.com/90342002/168258082-e80d2483-e9ef-471e-84ee-51ca1ae937ef.png">
+<img width="1623" alt="image" src="https://user-images.githubusercontent.com/90342002/168258166-64ede392-a491-4bff-a6c4-eb255c0846d5.png">
+<img width="1615" alt="image" src="https://user-images.githubusercontent.com/90342002/168258318-29d21d32-7b9d-42aa-b887-322eed942211.png">
+<img width="1617" alt="image" src="https://user-images.githubusercontent.com/90342002/168258428-23b1aaf3-155a-416b-965c-2172ae5bb52f.png">
+
+
+
 ## 📢 About
 * 지원
   - 미래혁신센터 / Cloud Native개발팀
@@ -83,16 +93,15 @@
 * <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
   + Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   + gitpod.io/#/{Github-Repository-URL}
-* AWS
+* AWS (*약 15~20분 소요*)
   + 계정정보(IAM)메일 발송
   + Region-Code : `ca-central-1`
   + Cluster-Name : Account-Id
   + Image-Repository-Name : Account-Id
-  + 
 
 > 참고
 
-  이전실습환경(https://labs.msaez.io/)에 접속해서 실습내용을 확인해 볼 수 있으나, `INTO THE LAB`에서 실습했었던 온라인상의 실행은 불가하므로, `파일다운로드`버튼을 이용해 실습했던 Code를 다운로드 해서 확인하시길 바랍니다.
+  이전실습환경(https://labs.msaez.io/)에 접속해서 실습내용을 확인해 볼 수 있으나, `INTO THE LAB`에서 실습했었던 온라인상의 실행은 불가하므로, `파일다운로드`버튼을 이용해 실습했던 code를 다운로드 해서 확인
 
 
 
