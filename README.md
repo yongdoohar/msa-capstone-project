@@ -88,6 +88,7 @@
   + Region-Code : `ca-central-1`
   + Cluster-Name : Account-Id
   + Image-Repository-Name : Account-Id
+  + 
 
 > 참고
 
@@ -108,6 +109,7 @@
   * Air BnB Cover : [https://github.com/msa-ez/airbnb_project]
   * 숙박예약 Cover : [https://github.com/msa-ez/airbnb_project]
   
+
 
 ## 🪶 Lite Version (for FORK )
   * Dragon Water Lite 🦖💧 : [https://github.com/yongdoohar/msa-capstone-project]
