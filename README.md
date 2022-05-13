@@ -80,7 +80,7 @@
   + 팀별로 소회의실에서 진행
   + 동시수정
 * <a href="https://gitpod.io/#/https://github.com/kihoon-yang/msa-capstone-project" target="_blank">GitPod</a>
-  + Github 계정 및 Repositoy(public) 준비
+  + Github 계정 및 Repositoy(public) 준비 ( **for FORK** )
   + gitpod.io/#/{Github-Repository-URL}
 * AWS
   + 계정정보(IAM)메일 발송
@@ -93,7 +93,11 @@
   이전실습환경(https://labs.msaez.io/)에 접속해서 실습내용을 확인해 볼 수 있으나, `INTO THE LAB`에서 실습했었던 온라인상의 실행은 불가하므로, `파일다운로드`버튼을 이용해 실습했던 Code를 다운로드 해서 확인하시길 바랍니다.
 
 
-## 🧑🏻‍💻 Sample
+
+## 🧨 Attention
+* 교육을 위한 재택근무가 아닌, 출근지에서 업무와 동시에 과제 수행시, Github 사이트로 Local에서 작성한 프로그램이 `Upload` 되지 않도록 주의
+* Web Browser IDE 환경에서 과제 수행시, Client의 Network 상황에 따라 작업중인 내용이 유실될 있으니 `저장` 또는 `commit(push)`
+* 과제수행 중 문의사항있을 경우, 카카오톡 오픈채팅창 이용
 
 
 
