@@ -2,14 +2,6 @@
 <img src= "https://t1.daumcdn.net/cfile/tistory/997A00365C79475E04?download">
 
 
-## 🤷🏻‍♂️🤷🏻‍♀️ Curriculum
-<img width="1614" alt="image" src="https://user-images.githubusercontent.com/90342002/168257940-b01648f5-c547-4ab0-beab-55b2d9b558b7.png">
-<img width="1616" alt="image" src="https://user-images.githubusercontent.com/90342002/168258082-e80d2483-e9ef-471e-84ee-51ca1ae937ef.png">
-<img width="1623" alt="image" src="https://user-images.githubusercontent.com/90342002/168258166-64ede392-a491-4bff-a6c4-eb255c0846d5.png">
-<img width="1615" alt="image" src="https://user-images.githubusercontent.com/90342002/168258318-29d21d32-7b9d-42aa-b887-322eed942211.png">
-<img width="1617" alt="image" src="https://user-images.githubusercontent.com/90342002/168258428-23b1aaf3-155a-416b-965c-2172ae5bb52f.png">
-
-
 
 ## 📢 About
 * 지원
@@ -64,7 +56,18 @@
    ||  조진송|대리|201800069|서비스혁신센터|제조방산담당/방산운영1팀|
    ||  이종성|대리|202102050|서비스혁신센터|제조방산담당/제조운영팀|  
    
-   
+
+
+
+## 🤷🏻‍♂️🤷🏻‍♀️ Curriculum
+<img width="1614" alt="image" src="https://user-images.githubusercontent.com/90342002/168257940-b01648f5-c547-4ab0-beab-55b2d9b558b7.png">
+<img width="1616" alt="image" src="https://user-images.githubusercontent.com/90342002/168258082-e80d2483-e9ef-471e-84ee-51ca1ae937ef.png">
+<img width="1623" alt="image" src="https://user-images.githubusercontent.com/90342002/168258166-64ede392-a491-4bff-a6c4-eb255c0846d5.png">
+<img width="1615" alt="image" src="https://user-images.githubusercontent.com/90342002/168258318-29d21d32-7b9d-42aa-b887-322eed942211.png">
+<img width="1617" alt="image" src="https://user-images.githubusercontent.com/90342002/168258428-23b1aaf3-155a-416b-965c-2172ae5bb52f.png">
+
+
+
 
 ## ✏️ Evaluation
 
