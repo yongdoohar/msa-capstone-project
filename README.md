@@ -8,10 +8,10 @@
   - 미래혁신센터 / Cloud Native개발팀
   - 양기훈 과장, 변용수 대리
 * Platform
-  - ZOOM
-    + URL : https://us06web.zoom.us/j/83816607931?pwd=NFRNUWU2Skh2R1B2bDN5RDB3aDluUT09
-    + 회의 ID : 838 1660 7931
-    + 암호 : 642939
+  - ZOOM(2일차)
+    + URL : https://us06web.zoom.us/j/5327375996?pwd=dWI4WFRQZGhsajJQaGRkRGFqc09Wdz09
+    + 회의 ID : 532 737 5996
+    + 암호 : 1234
 
   - Kakao
     + URL : https://open.kakao.com/o/gguDsE5d
